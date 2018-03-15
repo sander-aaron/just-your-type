@@ -2,12 +2,17 @@ html {
   font-family: sans-serif;
 }
 
-.red {
-  background-color: #ee3a22;
-}
-
 .yellow {
   background-color: #eebb22;
+  position: absolute;
+}
+
+.yellow:hover {
+  opacity: 0;
+}
+
+.red {
+  background-color: #ee3a22;
 }
 
 .border {
