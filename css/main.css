@@ -3,7 +3,7 @@ html {
 }
 
 .yellow {
-  background-color: #eebb22;
+  background-color: #eb2;
   position: absolute;
 }
 
@@ -22,12 +22,12 @@ html {
 }
 
 .raleway {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #f2f2f2;
 }
 
 .changa {
-  font-family: 'Changa One', cursive;
+  font-family: "Changa One", cursive;
   hyphens: auto;
 }
 
@@ -36,10 +36,10 @@ html {
 }
 
 .yellowtext {
-  color: #eebb22;
+  color: #eb2;
 }
 
-@media only screen and (min-width: 36em) {
+@media only screen and (min-width: 38em) {
 
   .yellow {
     position: relative;
@@ -47,6 +47,10 @@ html {
 
   .yellow:hover {
     opacity: 100;
+  }
+
+  .redtext {
+    text-align: right;
   }
 
 }
