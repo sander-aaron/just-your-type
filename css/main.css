@@ -17,8 +17,8 @@ html {
 
 .border {
   border-style: double;
+  border-width: medium;
   border-color: #f2f2f2;
-  overflow: inherit;
 }
 
 .raleway {
