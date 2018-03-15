@@ -23,6 +23,7 @@ html {
 
 .changa {
   font-family: 'Changa One', cursive;
+  hyphens: auto;
 }
 
 .redtext {
