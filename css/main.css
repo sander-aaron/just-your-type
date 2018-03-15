@@ -38,3 +38,15 @@ html {
 .yellowtext {
   color: #eebb22;
 }
+
+@media only screen and (min-width: 36em) {
+
+  .yellow {
+    position: relative;
+  }
+
+  .yellow:hover {
+    opacity: 100;
+  }
+
+}
